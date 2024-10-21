@@ -5,7 +5,7 @@ module.exports = {
     networks: {
         base: {
             url: 'https://mainnet.base.org',
-            accounts: ['YOUR_PRIVATE_KEY']
+            accounts: ['20973dae6ad6df912fd07e381ead387d1a819794ececd6f93c37b88ddb2c9b4f']
         }
     }
 };
